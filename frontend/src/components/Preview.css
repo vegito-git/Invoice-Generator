@@ -1,0 +1,36 @@
+.description{
+    width:60ch;
+}
+.invoice-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.invoice-table th, .invoice-table td {
+    border: 1px solid #000;
+    padding: 8px;
+    text-align: left;
+}
+.invoice-table th {
+    background-color: #f2f2f2;
+}
+.text-right {
+    text-align: right;
+}
+.total-row {
+    font-weight: bold;
+}
+.total-amount {
+    background-color: #f2f2f2;
+}
+.custom-img{
+    width:30ch;
+    height:5ch;
+    border:.05ch ridge rgb(112, 112, 112);
+}
+.reverseCharge{
+    margin-top:-2.8ch;
+}
+.custom-footer{
+    font-size:.8ch;
+}
