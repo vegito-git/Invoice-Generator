@@ -1,6 +1,7 @@
 Hello, I have used mern stack for the assignment.
 I have deleted the node_modules folder from both backend and frontend.
-Please use npm install.
+Use npm install.
+And create a .env file in both backend and frontend, then add the url(MONGODB_URL & REACT_APP_API_BASE_URL).
 
 I have created 4 API's.
 One to create a invoice, one to get the invoice details, one to update the items(to add items in the existing invoice) 
